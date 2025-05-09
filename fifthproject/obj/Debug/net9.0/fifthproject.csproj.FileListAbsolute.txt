@@ -1,0 +1,14 @@
+C:\Users\tomas\dev\lexicon\fifthproject\obj\Debug\net9.0\fifthproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas\dev\lexicon\fifthproject\obj\Debug\net9.0\fifthproject.AssemblyInfoInputs.cache
+C:\Users\tomas\dev\lexicon\fifthproject\obj\Debug\net9.0\fifthproject.AssemblyInfo.cs
+C:\Users\tomas\dev\lexicon\fifthproject\obj\Debug\net9.0\fifthproject.csproj.CoreCompileInputs.cache
+C:\Users\tomas\dev\lexicon\fifthproject\bin\Debug\net9.0\fifthproject.exe
+C:\Users\tomas\dev\lexicon\fifthproject\bin\Debug\net9.0\fifthproject.deps.json
+C:\Users\tomas\dev\lexicon\fifthproject\bin\Debug\net9.0\fifthproject.runtimeconfig.json
+C:\Users\tomas\dev\lexicon\fifthproject\bin\Debug\net9.0\fifthproject.dll
+C:\Users\tomas\dev\lexicon\fifthproject\bin\Debug\net9.0\fifthproject.pdb
+C:\Users\tomas\dev\lexicon\fifthproject\obj\Debug\net9.0\fifthproject.dll
+C:\Users\tomas\dev\lexicon\fifthproject\obj\Debug\net9.0\refint\fifthproject.dll
+C:\Users\tomas\dev\lexicon\fifthproject\obj\Debug\net9.0\fifthproject.pdb
+C:\Users\tomas\dev\lexicon\fifthproject\obj\Debug\net9.0\fifthproject.genruntimeconfig.cache
+C:\Users\tomas\dev\lexicon\fifthproject\obj\Debug\net9.0\ref\fifthproject.dll
