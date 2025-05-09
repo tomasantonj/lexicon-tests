@@ -1,0 +1,14 @@
+C:\Users\tomas\dev\lexicon\secondproject\bin\Debug\net9.0\secondproject.exe
+C:\Users\tomas\dev\lexicon\secondproject\bin\Debug\net9.0\secondproject.deps.json
+C:\Users\tomas\dev\lexicon\secondproject\bin\Debug\net9.0\secondproject.runtimeconfig.json
+C:\Users\tomas\dev\lexicon\secondproject\bin\Debug\net9.0\secondproject.dll
+C:\Users\tomas\dev\lexicon\secondproject\bin\Debug\net9.0\secondproject.pdb
+C:\Users\tomas\dev\lexicon\secondproject\obj\Debug\net9.0\secondproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas\dev\lexicon\secondproject\obj\Debug\net9.0\secondproject.AssemblyInfoInputs.cache
+C:\Users\tomas\dev\lexicon\secondproject\obj\Debug\net9.0\secondproject.AssemblyInfo.cs
+C:\Users\tomas\dev\lexicon\secondproject\obj\Debug\net9.0\secondproject.csproj.CoreCompileInputs.cache
+C:\Users\tomas\dev\lexicon\secondproject\obj\Debug\net9.0\secondproject.dll
+C:\Users\tomas\dev\lexicon\secondproject\obj\Debug\net9.0\refint\secondproject.dll
+C:\Users\tomas\dev\lexicon\secondproject\obj\Debug\net9.0\secondproject.pdb
+C:\Users\tomas\dev\lexicon\secondproject\obj\Debug\net9.0\secondproject.genruntimeconfig.cache
+C:\Users\tomas\dev\lexicon\secondproject\obj\Debug\net9.0\ref\secondproject.dll
