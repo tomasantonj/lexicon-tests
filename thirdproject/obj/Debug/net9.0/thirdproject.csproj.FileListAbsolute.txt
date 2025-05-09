@@ -1,0 +1,14 @@
+C:\Users\tomas\dev\lexicon\thirdproject\bin\Debug\net9.0\thirdproject.exe
+C:\Users\tomas\dev\lexicon\thirdproject\bin\Debug\net9.0\thirdproject.deps.json
+C:\Users\tomas\dev\lexicon\thirdproject\bin\Debug\net9.0\thirdproject.runtimeconfig.json
+C:\Users\tomas\dev\lexicon\thirdproject\bin\Debug\net9.0\thirdproject.dll
+C:\Users\tomas\dev\lexicon\thirdproject\bin\Debug\net9.0\thirdproject.pdb
+C:\Users\tomas\dev\lexicon\thirdproject\obj\Debug\net9.0\thirdproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas\dev\lexicon\thirdproject\obj\Debug\net9.0\thirdproject.AssemblyInfoInputs.cache
+C:\Users\tomas\dev\lexicon\thirdproject\obj\Debug\net9.0\thirdproject.AssemblyInfo.cs
+C:\Users\tomas\dev\lexicon\thirdproject\obj\Debug\net9.0\thirdproject.csproj.CoreCompileInputs.cache
+C:\Users\tomas\dev\lexicon\thirdproject\obj\Debug\net9.0\thirdproject.dll
+C:\Users\tomas\dev\lexicon\thirdproject\obj\Debug\net9.0\refint\thirdproject.dll
+C:\Users\tomas\dev\lexicon\thirdproject\obj\Debug\net9.0\thirdproject.pdb
+C:\Users\tomas\dev\lexicon\thirdproject\obj\Debug\net9.0\thirdproject.genruntimeconfig.cache
+C:\Users\tomas\dev\lexicon\thirdproject\obj\Debug\net9.0\ref\thirdproject.dll
