@@ -1,0 +1,14 @@
+C:\Users\tomas\dev\lexicon\fourthproject\obj\Debug\net9.0\fourthproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas\dev\lexicon\fourthproject\obj\Debug\net9.0\fourthproject.AssemblyInfoInputs.cache
+C:\Users\tomas\dev\lexicon\fourthproject\obj\Debug\net9.0\fourthproject.AssemblyInfo.cs
+C:\Users\tomas\dev\lexicon\fourthproject\obj\Debug\net9.0\fourthproject.csproj.CoreCompileInputs.cache
+C:\Users\tomas\dev\lexicon\fourthproject\bin\Debug\net9.0\fourthproject.exe
+C:\Users\tomas\dev\lexicon\fourthproject\bin\Debug\net9.0\fourthproject.deps.json
+C:\Users\tomas\dev\lexicon\fourthproject\bin\Debug\net9.0\fourthproject.runtimeconfig.json
+C:\Users\tomas\dev\lexicon\fourthproject\bin\Debug\net9.0\fourthproject.dll
+C:\Users\tomas\dev\lexicon\fourthproject\bin\Debug\net9.0\fourthproject.pdb
+C:\Users\tomas\dev\lexicon\fourthproject\obj\Debug\net9.0\fourthproject.dll
+C:\Users\tomas\dev\lexicon\fourthproject\obj\Debug\net9.0\refint\fourthproject.dll
+C:\Users\tomas\dev\lexicon\fourthproject\obj\Debug\net9.0\fourthproject.pdb
+C:\Users\tomas\dev\lexicon\fourthproject\obj\Debug\net9.0\fourthproject.genruntimeconfig.cache
+C:\Users\tomas\dev\lexicon\fourthproject\obj\Debug\net9.0\ref\fourthproject.dll
