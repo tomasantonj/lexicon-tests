@@ -1,0 +1,14 @@
+C:\Users\tomas\dev\lexicon\firstproject\firstproject\bin\Debug\net9.0\firstproject.exe
+C:\Users\tomas\dev\lexicon\firstproject\firstproject\bin\Debug\net9.0\firstproject.deps.json
+C:\Users\tomas\dev\lexicon\firstproject\firstproject\bin\Debug\net9.0\firstproject.runtimeconfig.json
+C:\Users\tomas\dev\lexicon\firstproject\firstproject\bin\Debug\net9.0\firstproject.dll
+C:\Users\tomas\dev\lexicon\firstproject\firstproject\bin\Debug\net9.0\firstproject.pdb
+C:\Users\tomas\dev\lexicon\firstproject\firstproject\obj\Debug\net9.0\firstproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas\dev\lexicon\firstproject\firstproject\obj\Debug\net9.0\firstproject.AssemblyInfoInputs.cache
+C:\Users\tomas\dev\lexicon\firstproject\firstproject\obj\Debug\net9.0\firstproject.AssemblyInfo.cs
+C:\Users\tomas\dev\lexicon\firstproject\firstproject\obj\Debug\net9.0\firstproject.csproj.CoreCompileInputs.cache
+C:\Users\tomas\dev\lexicon\firstproject\firstproject\obj\Debug\net9.0\firstproject.dll
+C:\Users\tomas\dev\lexicon\firstproject\firstproject\obj\Debug\net9.0\refint\firstproject.dll
+C:\Users\tomas\dev\lexicon\firstproject\firstproject\obj\Debug\net9.0\firstproject.pdb
+C:\Users\tomas\dev\lexicon\firstproject\firstproject\obj\Debug\net9.0\firstproject.genruntimeconfig.cache
+C:\Users\tomas\dev\lexicon\firstproject\firstproject\obj\Debug\net9.0\ref\firstproject.dll
