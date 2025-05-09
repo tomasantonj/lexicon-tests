@@ -1,0 +1,14 @@
+C:\Users\tomas\dev\lexicon\sixthproject\bin\Debug\net9.0\sixthproject.exe
+C:\Users\tomas\dev\lexicon\sixthproject\bin\Debug\net9.0\sixthproject.deps.json
+C:\Users\tomas\dev\lexicon\sixthproject\bin\Debug\net9.0\sixthproject.runtimeconfig.json
+C:\Users\tomas\dev\lexicon\sixthproject\bin\Debug\net9.0\sixthproject.dll
+C:\Users\tomas\dev\lexicon\sixthproject\bin\Debug\net9.0\sixthproject.pdb
+C:\Users\tomas\dev\lexicon\sixthproject\obj\Debug\net9.0\sixthproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas\dev\lexicon\sixthproject\obj\Debug\net9.0\sixthproject.AssemblyInfoInputs.cache
+C:\Users\tomas\dev\lexicon\sixthproject\obj\Debug\net9.0\sixthproject.AssemblyInfo.cs
+C:\Users\tomas\dev\lexicon\sixthproject\obj\Debug\net9.0\sixthproject.csproj.CoreCompileInputs.cache
+C:\Users\tomas\dev\lexicon\sixthproject\obj\Debug\net9.0\sixthproject.dll
+C:\Users\tomas\dev\lexicon\sixthproject\obj\Debug\net9.0\refint\sixthproject.dll
+C:\Users\tomas\dev\lexicon\sixthproject\obj\Debug\net9.0\sixthproject.pdb
+C:\Users\tomas\dev\lexicon\sixthproject\obj\Debug\net9.0\sixthproject.genruntimeconfig.cache
+C:\Users\tomas\dev\lexicon\sixthproject\obj\Debug\net9.0\ref\sixthproject.dll
